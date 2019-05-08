@@ -5,3 +5,5 @@
 [inforgraphic 1](https://ailsiseburns.github.io/infographic/infographic.html) first draft of infographic 
 
 [Sources](https://ailsiseburns.github.io/infographic/sources.html) Sources of all Research I have done.
+
+[Final Infographic](https://ailsiseburns.github.io/infographic/final_infographic.html) Final Infographic 
